@@ -1,5 +1,4 @@
+primefaces5.0-Demo
+========
 showcase
 
-========
-
-primefaces5.0-Demo
