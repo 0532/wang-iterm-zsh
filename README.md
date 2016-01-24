@@ -1,6 +1,6 @@
 ## wang theme and colors for Oh My ZSH and iTerm
 
-![](https://github.com/0532/wang-iterm-zsh/wang.png)
+![](https://github.com/0532/wang-iterm-zsh/blob/master/wang.png)
 
 
 ## Installation
